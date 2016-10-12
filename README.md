@@ -8,4 +8,4 @@ Employed a clever technique of sequentially retexturing buttons to simulate anim
 
 # Start
 
-To start the game, open in visual studios and run the project.
+To start the game, open in Visual Studios and run the project.
